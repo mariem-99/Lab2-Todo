@@ -3,10 +3,10 @@
 A beautiful, interactive Todo application built with React as part of Lab 2: Components, Props & State.
 
 ## 🚀 Live Demo
-
+[View on Vercel](https://todo-app-three-weld-82.vercel.app)
 
 ## 📸 Preview
-[C:\Users\MSI\Documents\web_projects\react\lab-2-todo\public\todo.png]
+![Preview](public\todo.png)
 
 ## 🛠 Built With
 - React
